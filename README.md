@@ -2,6 +2,8 @@
 **LinkedIn:** [www.linkedin.com/in/jlvv](https://www.linkedin.com/in/jlvv)  
 **Email:** [eljlv2v@gmail.com](mailto:eljlv2v@gmail.com)
 
+![Banner](banner.png)
+
 ## 👩‍💻 About Me
 I'm **biologist** and **data analyst**
 
