@@ -1,15 +1,15 @@
-## 📊 Data Analyst | 🧬 Biologist
+## 📊 **Data Analyst** | 🧬 **Biologist** | 🧑‍🔬 **Scientific**
 **LinkedIn:** [www.linkedin.com/in/jlvv](https://www.linkedin.com/in/jlvv)  
 **Email:** [eljlv2v@gmail.com](mailto:eljlv2v@gmail.com)
 
 ![cover](cover.png)
 
 ## 👩‍💻 About Me
-My name is **José** **Luis** and I'm **biologist** and **data analyst**.
+My name is **José Luis** and I'm **biologist** and **data analyst**.
 
-I discovered my passion for biology by studying its wonderful complexity. I graduated in Biology from the University of Murcia, where I was an intern in the Ecology department, collaborating on a project to control invasive exotic plant species. Additionally, I spent a year studying abroad, which allowed me to step out of my comfort zone and enrich my education.
+I discovered my passion for **biology** by studying its wonderful complexity. I graduated in **Biology** from the University of Murcia, where I was an intern in the Ecology department, collaborating on a project to control invasive exotic plant species. Additionally, I spent a **year studying abroad**, which allowed me to step out of my comfort zone and enrich my education.
 
-Currently, I am expanding my skills in **technology** and **data science**, aiming to lead innovative projects that merge biology and technology to advance our society. I’m focused on leveraging data to solve complex biological problems and drive impactful research.
+Currently, as **scientific** I am expanding my skills in **technology** and **data science**, aiming to lead innovative projects that merge biology and technology to advance our society. I’m focused on leveraging data to solve complex biological problems and drive impactful research.
 
 ## 🚀 Tech Stack <br>
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
