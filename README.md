@@ -5,7 +5,7 @@
 ![cover](cover.png)
 
 ## 👩‍💻 About Me
-I'm **biologist** and **data analyst**
+My name is José Luis and I'm **biologist** and **data analyst**
 
 I discovered my passion for biology by studying its wonderful complexity. I graduated in Biology from the University of Murcia, where I was an intern in the Ecology department, collaborating on a project to control invasive exotic plant species. Additionally, I spent a year studying abroad, which allowed me to step out of my comfort zone and enrich my education.
 
